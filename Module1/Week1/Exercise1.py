@@ -23,3 +23,4 @@ def exercise1(tp, fp, fn):
 
 if __name__ == "__main__":
     exercise1(2, 4, 5)
+    # hello
