@@ -1,0 +1,6 @@
+{
+    "sonarlint.connectedMode.project": {
+        "connectionId": "tinhanhgithub",
+        "projectKey": "TinhAnhGitHub_AIO-Exercise-And-Note"
+    }
+}
