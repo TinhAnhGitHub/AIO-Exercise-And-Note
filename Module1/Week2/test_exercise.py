@@ -3,8 +3,6 @@ from Module1.Week2.ExWeek2 import sliding_window, count_chars, count_words_in_te
 
 
 class test_main(unittest.TestCase):
-    
-
     def test_sliding_window(self):
         self.assertListEqual(
             sliding_window([3 , 4 , 5 , 1 , -44], 3), [5, 5, 5]
